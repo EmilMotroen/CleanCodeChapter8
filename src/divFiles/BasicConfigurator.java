@@ -1,2 +1,6 @@
-package divFiles;public class BasicConfigurator {
+package divFiles;
+
+public class BasicConfigurator {
+    public static void configure() {
+    }
 }

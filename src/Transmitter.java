@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Transmitter {
+public interface Transmitter {
+    void transmit(String frequency, String stream);
 }

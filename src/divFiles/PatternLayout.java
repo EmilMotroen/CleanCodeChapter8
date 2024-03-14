@@ -1,2 +1,6 @@
-package divFiles;public class PatternLayout {
+package divFiles;
+
+public class PatternLayout {
+    public PatternLayout(String s) {
+    }
 }

@@ -1,3 +1,3 @@
 public interface Transmitter {
-    void transmit(String frequency, String stream);
+    void transmit(String frequency, Transmitter transmitter);
 }
